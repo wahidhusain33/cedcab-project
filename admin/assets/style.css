@@ -1,0 +1,76 @@
+body{
+    background-image: url('cab.jpg');
+    
+}
+.div1{
+    color:white;
+    font-family: 'Cinzel', serif;
+    text-align: center;
+
+}
+span{
+    /* font-family: 'Cinzel', serif; */
+}
+#div1{
+    font-size: 50px;
+    margin-top: 5vh;
+}
+#div2{
+    font-size: 25px;
+}
+#bookDiv{
+    background-color: white;
+    position: relative;
+    width: 45%;
+    height: 50vh;
+    border: 3px solid whitesmoke;
+    border-radius: 5%;
+    margin-top: 5vh;
+    margin-left: 1%;
+    text-align: center;
+    
+}
+#fare{
+    text-decoration: none;
+    color:darkslategray;
+}
+
+#foot{
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        background-color: red;
+        color: white;
+        text-align: center;
+     
+}
+
+
+.login{
+    background-color: white;
+    position: relative;
+    width: 45%;
+    height: 50vh;
+    border: 3px solid whitesmoke;
+    border-radius: 5%;
+    margin-top: 5vh;
+    margin-left: 1%;
+    /* font-family: 'Cinzel', serif; */
+    text-align: center;
+
+}
+
+.signup{
+    background-color: white;
+    position: relative;
+    width: 45%;
+    height: 56vh;
+    border: 3px solid whitesmoke;
+    border-radius: 5%;
+    margin-top: 5vh;
+    margin-left: 1%;
+    text-align: center;
+}
+
+
